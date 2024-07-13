@@ -1,0 +1,111 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.one {
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+}
+.first {
+    background-color: rgb(185, 17, 17);
+    color: rgb(243, 53, 53);
+    border-radius: 10px ;
+    border-color: rgb(192, 38, 38);
+    width: 170px;
+    height: 50px;
+    cursor: pointer;
+}
+.second {
+    border-radius: 10px;
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+    background-color: rgb(184, 23, 23);
+    border-color: rgb(177, 25, 25);
+}
+b {
+    color: rgb(92, 91, 91);
+    padding-top: 10px;
+}
+.to {
+    display: flex;
+    gap: 8px;
+}
+.width {
+    font-size: 16px;
+   color: rgb(51, 179, 51);
+   padding-left: 640px;
+}
+.in {
+    font-size: 70px;
+    padding-left: 100px;
+}
+.lom {
+    width: 190px;
+    height: 70px;
+    border-radius: 10px  ;
+    border-color: violet;
+    background: none;
+    padding-top: 17px;
+   cursor: pointer;
+}
+.box {
+    /* padding-left: 100px; */
+    display: flex;
+gap: 5px;
+padding-left: 100px;
+}
+.king {
+    width: 190px;
+    height: 70px;
+    border-radius: 10px  ;
+    border-color: rgb(192, 192, 14);
+    background: none;
+    padding-top: 1px;
+    cursor: pointer;
+}
+.lord {
+    padding-left:100px ;
+    padding-top:28px ;
+    font-size:35px;
+}
+.lion {
+    width: 220px;
+    height:65px ;
+    background-color: rgb(216, 57, 57);
+    border-color: rgb(209, 39, 39)(201, 115, 115);
+    color: white;
+    cursor: pointer;
+    
+}
+.tiger {
+    padding-top: 25px;
+    padding-left: 100px;
+}
+
+.water {
+    color: rgb(53, 52, 52);
+    font-size: 23px;
+}
+.right {
+    padding-left: 300px;
+    padding-top: 12px;
+}
+.container {
+    display: flex;
+}
+.img {
+    padding-left: 200px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+.home {
+    width: 870px;
+    height: 700px;
+}
